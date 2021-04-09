@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class play {
     public static void main(String[] args){
         System.out.print(maxtime("23:5?"));
-
     }
     /*
         Problem: You are given a string that represents time in the format hh:mm. Some of the digits are blank (represented by ?).
